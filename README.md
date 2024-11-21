@@ -1,15 +1,35 @@
 # 👋 Hi, I'm **Adrián Rivera**
 
 ## 🌟 About Me
-I am a **passionate Frontend Developer** with over 6 years of experience crafting exceptional web experiences. Self-taught, responsible, and detail-oriented, I am always looking for new challenges and learning opportunities to contribute to results-driven teams.  
+I am a **passionate Frontend Developer** with over 6 years of experience crafting exceptional web experiences. Self-taught, responsible, and detail-oriented, I am always looking for new challenges and learning opportunities to contribute to results-driven teams.
 
 ---
 
 ## 💻 **Skills**
-- **Frontend:** React, Next.js, TypeScript, GraphQL, HTML, CSS, Tailwind, Angular, Ionic
-- **Backend:** Node.js, Nest.js
-- **Cloud & BI:** Google Cloud Platform (GCP), Looker (custom extensions, dashboards, APIs)
-- **Additional Tools:** Git, Responsive Design, REST APIs, SPAs
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Cloud & BI
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
